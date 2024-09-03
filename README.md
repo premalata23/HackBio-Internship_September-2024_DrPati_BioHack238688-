@@ -11,9 +11,6 @@ Frontend Bioinformatics: Basic R and ggplot2
 **By: _DrPati\_BioHack238688#_**
 
 ** **
-
-**Introduction**
-
 Data visualization is an essential tool in cancer research, allowing scientists to comprehend complex statistics and reach relevant findings. Base R plotting (1) and ggplot2 (2) are two well-known data visualization approaches in R, one of the most popular computer languages in bioinformatics. Each has strengths and uses, especially in cancer research.
 
 **Base R Plotting**
@@ -33,8 +30,6 @@ Furthermore, ggplot2's ability to integrate statistical modifications directly i
 
 One significant use of ggplot2 in cancer research is the visualization of survival analysis data (3). ggplot2 (4) makes it simple to construct and edit Kaplan-Meier plots, which are commonly used to show patient survival rates over time. In one study, researchers utilized ggplot2 to perform clustering analysis to show survival disparities among breast cancer patients with various gene mutations (5), revealing which mutations were related with inferior outcomes.\
 Another example is the use of ggplot2 to generate heatmaps that depict gene expression data across various cancer subtypes (6). This form of visualization aids in the identification of gene expression patterns that may be associated with distinct cancer behaviors or treatment responses.
-
-**Conclusion**
 
 Both Base R plotting and ggplot2 have applications in cancer research. While Base R is excellent for rapid, simple visualizations, ggplot2 provides the depth and flexibility required for more complicated and publishable illustrates. As cancer research generates increasingly massive and complicated datasets, the capacity to efficiently depict these data will remain an important part of the research process. By combining the characteristics of Base R with ggplot2, researchers might get greater insights into cancer's biological pathways and, ultimately, contribute to the development of more effective treatment options.
 
