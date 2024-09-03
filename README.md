@@ -10,7 +10,6 @@ Frontend Bioinformatics: Basic R and ggplot2
 
 **By: _DrPati\_BioHack238688#_**
 
-** **
 Data visualization is an essential tool in cancer research, allowing scientists to comprehend complex statistics and reach relevant findings. Base R plotting (1) and ggplot2 (2) are two well-known data visualization approaches in R, one of the most popular computer languages in bioinformatics. Each has strengths and uses, especially in cancer research.
 
 **Base R Plotting**
