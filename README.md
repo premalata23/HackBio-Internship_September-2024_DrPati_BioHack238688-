@@ -1,4 +1,4 @@
-# HackBio-Internship_September-2024_DrPati_BioHack238688-
+# HackBio-Internship_Stage 0_September-2024_DrPati_BioHack238688-
 Frontend Bioinformatics: Basic R and ggplot2
 **Stage 0 (Writing)**
 
